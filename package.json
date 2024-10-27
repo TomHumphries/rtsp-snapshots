@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "@types/node": "^22.8.1",
+    "typescript": "^5.6.3"
+  },
+  "name": "rtsp-feed-snapshots",
+  "description": "Save RTSP snapshots using ffmpeg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

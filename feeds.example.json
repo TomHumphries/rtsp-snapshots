@@ -1,0 +1,9 @@
+[
+    {
+        "url": "rtsp://192.168.1.123:554/stream1",
+        "username": "your_camera_username",
+        "password": "your_camera_password",
+        "name": "Mock camera",
+        "directory": "C:\\path\\to\\your\\project\\cameras\\mock_feed"
+    }
+]
